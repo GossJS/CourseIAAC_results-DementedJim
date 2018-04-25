@@ -1,25 +1,25 @@
 # CourseIAAC_results
+ Иванов Дмитрий Владимирович
 Репозиторий-основа для материалов по дисциплине «Алгоритмы и анализ сложности»
 
- Список заданий:
- ```
-Автоматное
-Перевод числа
-Алгоритм половинного деления
-Рекурсия 
-Анализ алгоритма сортировки
-```
+Задания:
 
-Как оформлять?
+Автоматное программирование:
+https://docs.google.com/presentation/d/e/2PACX-1vSV2pVrrih6WpGi1jXsbFp4OYpKSBv9kPh4uUrZ-9xjXxYK4O2kjW8eNQwRWZH1aZx80AVRxHNual9s/pub?start=false&loop=false&delayms=3000
+https://yadi.sk/i/FbH5ONRA3Un5MY
 
-Использовать слайды по образцу  https://kodaktor.ru/g/report_template
+Типизация:
+https://docs.google.com/presentation/d/e/2PACX-1vRXnhS4hmy47rSDGRYlZB28UAejcEvmAwW1cycRYmiA-yj6P22CbNVBU5Tu_lK-pl3ystqO6fhJUZGh/pub?start=false&loop=false&delayms=3000&slide=id.p3
+https://yadi.sk/i/sJAZDLxG3Un5UJ
 
-Нужно в файле README вашего репозитория-ответа вставить ссылки на работающие примеры.
+Алгоритм половинного деления:
+https://docs.google.com/presentation/d/e/2PACX-1vRl74d4VQ4l_bMuVeKV6XtDTDRErTIbHrwGIqyRe1r-hAlW_iWQisBkPRl4D29NqzC7UQoGuehFOypm/pub?start=false&loop=false&delayms=3000
+https://yadi.sk/i/XP5TSeHX3Un5W3
 
-Если это борд кодактора, то в адресе не должно быть восклицательного и вопросительного знака, а также знака равенства.
+Алгоритмы сортировок:
+https://docs.google.com/presentation/d/e/2PACX-1vRO5xEDnpJc9a4yGjXUW5VwPPKhlhTpP1TAvwPptjOOjWX6qxdvWp_TUDqDGWl7ykqZpuLIeXMTfxxU/pub?start=false&loop=false&delayms=3000
+https://yadi.sk/i/XP5TSeHX3Un5W3
 
-Не забывайте об указании авторства всех выполненных заданий https://kodaktor.ru/g/z7a
-
-Курс: https://moodle.herzen.spb.ru/course/view.php?id=2359#section-10
-
-Ссылка на задание: https://classroom.github.com/a/3hu6uqbA
+Рекурсия:
+https://docs.google.com/presentation/d/e/2PACX-1vSxZhaS-_GK2EkO-K8AxQdMKnNkGzyk1Qtj5LVFqgofmOGFv8jEnhNgdo-F1ouD6mUDl920yBmltnHt/pub?start=false&loop=false&delayms=3000
+https://yadi.sk/i/FfByyUPj3Un5YQ
